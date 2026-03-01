@@ -4,3 +4,4 @@ Dia 2
 Aprendi sobre git status e git log.
 Dia 3
 Aprendi a enviar projeto para o GitHub com git push.
+Estudei sobre branch e merge.
