@@ -1,0 +1,2 @@
+Dia 1
+Estudei git init, git add e git commit.
