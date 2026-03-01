@@ -1,2 +1,4 @@
 Dia 1
 Estudei git init, git add e git commit.
+Dia 2
+Aprendi sobre git status e git log.
